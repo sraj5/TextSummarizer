@@ -1,0 +1,43 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.11.13",
+  "startedAt":  "2025-06-25T18:00:13.204787Z",
+  "program":  "D:\\study\\techfolders\\textsummarizer\\main.py",
+  "codePath":  "main.py",
+  "git":  {
+    "remote":  "https://github.com/sraj5/textsummarizer.git",
+    "commit":  "0779673f558a45e2ebfbb4b59120ff18922f41bd"
+  },
+  "email":  "gilchristadamlee@gmail.com",
+  "root":  "D:\\study\\techfolders\\textsummarizer",
+  "host":  "SRaj",
+  "executable":  "D:\\study\\techfolders\\textsummarizer\\textsumenv\\python.exe",
+  "codePathLocal":  "main.py",
+  "cpu_count":  14,
+  "cpu_count_logical":  20,
+  "gpu":  "NVIDIA GeForce RTX 4050 Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "472368803840",
+      "used":  "367513300992"
+    }
+  },
+  "memory":  {
+    "total":  "16873545728"
+  },
+  "cpu":  {
+    "count":  14,
+    "countLogical":  20
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4050 Laptop GPU",
+      "memoryTotal":  "6439305216",
+      "cudaCores":  2560,
+      "architecture":  "Ada",
+      "uuid":  "GPU-eb552e52-73d8-022c-c610-cdfcf49d3eb9"
+    }
+  ],
+  "cudaVersion":  "12.8"
+}
